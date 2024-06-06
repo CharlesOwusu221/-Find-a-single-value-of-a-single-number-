@@ -1,0 +1,23 @@
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+#include <cmath>
+
+using namespace std;
+
+int main() {
+  srand(time(0)); // Seed the random number generator
+
+  int number;
+  cout << "Enter a single number: ";
+  cin >> number;
+
+  int random_number = rand() % number; // Generate a random number within the range of the input number
+  cout << "Random number: " << random_number << endl;
+
+  double pi = 3.14; // Define pi as a positive double value
+  double radius = sqrt(number / pi); // Calculate the radius using pi
+  cout << "Radius: " << radius << endl;
+
+  return 0;
+}
