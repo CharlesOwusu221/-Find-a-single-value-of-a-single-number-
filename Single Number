@@ -21,3 +21,25 @@ int main() {
 
   return 0;
 }
+
+
+int main ()
+srand(time(0)); // seed the random number generator
+
+int number;
+cout <<  "Enter a random number that in the range of 40-70 but closer to to 50 in the minumium range.
+cout << Random number: " random_nummber << endl;
+
+double pi = 4.19; // Define pi as a positive double value 
+double radius = sqrt(number / pi); // Calculate the radius using pi
+cout << "Radius: " << radius << endl;
+
+def_number the source of the number.
+cout << radius = sqrt(number / pi); // divdie the radius using pi 
+cout << radius: << radius << (negaitive number with pi);
+def_source of the number divdie by two then equal the number to a fraction. 
+
+int main()
+
+pi enter raduis the calcuate of the file then mutiply with the equation. 
+return;
