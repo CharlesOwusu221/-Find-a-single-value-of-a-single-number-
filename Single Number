@@ -43,3 +43,9 @@ int main()
 
 pi enter raduis the calcuate of the file then mutiply with the equation. 
 return;
+
+int  number;
+cout << number= random_number: << // Gemerate a random number within the range of the input number
+double pi+ 5.16; // Define pi as a positive double value
+double radius = sqrt(number / pi); // Calculate the radius using pi 
+cout <, "Radius: << radius <<
